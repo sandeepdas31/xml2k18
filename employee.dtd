@@ -1,0 +1,5 @@
+<!ELEMENT employee (text1,text2,text3,text4)>
+<!ELEMENT text1 (#PCDATA)>
+<!ELEMENT text2 (#PCDATA)>
+<!ELEMENT text3 (#PCDATA)>
+<!ELEMENT text4 (#PCDATA)>

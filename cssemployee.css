@@ -1,0 +1,17 @@
+employee
+{
+bgcolor="red";
+}
+text1,text2,text3,text4
+{	
+font-size:20px;
+display:block;
+color: tomato;
+margin-left: 50px;
+}
+heading
+{
+font-size:35px;
+display:block;
+color:black;
+}
